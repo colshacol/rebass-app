@@ -1,0 +1,27 @@
+{
+  "name": "rebass-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.5",
+    "@types/react": "^16.9.53",
+    "get-value": "^3.0.1",
+    "graphql": "^15.4.0",
+    "graphql-request": "^3.2.0",
+    "nanoid": "^3.1.16",
+    "next": "9.5.5",
+    "next-auth": "^3.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-query": "^2.25.2",
+    "react-query-devtools": "^2.6.0",
+    "set-value": "^3.0.2",
+    "styled-components": "^5.2.0",
+    "typescript": "^4.0.5"
+  }
+}
