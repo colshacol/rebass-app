@@ -1,3 +1,4 @@
+import * as React from 'react'
 import { AuthProvider } from '../auth'
 import { ReactQueryProvider } from '../cms/provider'
 import { Provider } from 'next-auth/client'

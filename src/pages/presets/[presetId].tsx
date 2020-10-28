@@ -1,3 +1,4 @@
+import * as React from 'react'
 import { GraphQLClient } from 'graphql-request'
 
 const graphcms = new GraphQLClient(

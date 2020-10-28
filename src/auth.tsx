@@ -1,6 +1,6 @@
+import * as React from 'react'
 import { signIn, signOut, useSession } from 'next-auth/client'
 import { getAccount } from './cms/useAccount'
-import * as React from 'react'
 
 const Context = React.createContext({
   isLoading: false,

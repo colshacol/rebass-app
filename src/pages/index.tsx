@@ -1,3 +1,4 @@
+import * as React from 'react'
 import { useAuth } from '../auth'
 
 export default function Index(props) {
